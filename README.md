@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Laiba! 👋
 
-<!--
-**laibaprogrammer/laibaprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Aspiring Artificial Intelligence Engineer & Software Developer
+I am an AI student passionate about building scalable software, mastering core algorithims, and solving real-world problems through clean code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C++
+-  **Focus Areas:** Artificial Intelligence, Data Structures & Algorithims, Clean Architecture
+-  **Environment:** VS Code, Dev-C++, Git & GitHub
+
+  ---
+### 📌 Featured Repositories
+-[python-fundamentals](https://github.com/laibaprogrammer/python-fundamentals) - Core python scripts, syntax practice, and foundational logic.
+
+---
+
+### ⚡Quick Facts
+- 🔭 Currently refining core programming logic in C++ & Python.
+- 🎯 Goal: Building high-impact AI systems and remote software development.
+- 💬 Ask me about: Python fundamentals , algorthmic logic,and modern AI workflows.
